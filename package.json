@@ -1,0 +1,12 @@
+{
+    "name": "hsr-rate-limiter",
+    "version": "1.0.0",
+    "description": "System Design Rate Limiting Challenge",
+    "main": "src/limiter.js",
+    "scripts": {
+        "test": "mocha tests/**/*.test.js"
+    },
+    "devDependencies": {
+        "mocha": "^10.2.0"
+    }
+}

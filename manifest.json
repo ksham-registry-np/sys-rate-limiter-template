@@ -1,0 +1,15 @@
+{
+    "id": "sys-rate-limiter",
+    "title": "HSR Layout Rate Limiter",
+    "difficulty": "HARD",
+    "category": "SYS",
+    "description": "Implement a memory-efficient sliding window rate limiter.",
+    "duration": "60m",
+    "tags": [
+        "Node.js",
+        "System Design",
+        "Resilience",
+        "Backend"
+    ],
+    "templateRepo": "https://github.com/ksham-registry-np/sys-rate-limiter-template"
+}
